@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "Purva",
+        "title": "Senior Visa Officer",
+        "experience": "3 Years of Experience",
+        "image": "/img1.jpg"
+    },
+    {
+        "id":2,
+        "name": "sakshi mishra",
+        "title": "Senior Visa Officer",
+        "experience": "2 Years of Experience",
+        "image": "/img2.jpg"
+    },
+    {
+        "id":3,
+        "name": "Bhakti khedekhar",
+        "title": "Senior Visa Officer",
+        "experience": "3 Years of Experience",
+        "image": "/img3.jpg"
+    },
+    {
+        "id":4,
+        "name": "Raj mehra",
+        "title": "Visa Officer",
+        "experience": "2 Years of Experience",
+        "image": "/img44.jpg"
+    },
+    {
+        "id":5,
+        "name": "Bhusan",
+        "title": "Visa Officer",
+        "experience": "3 Years of Experience",
+        "image": "/img6.jpg"
+    },
+    {
+        "id":6,
+        "name": "payal sawant",
+        "title": "Holiday expert",
+        "experience": "2 Years of Experience",
+        "image": "/img5.jpg"
+    }
+]

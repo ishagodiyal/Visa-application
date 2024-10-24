@@ -1,0 +1,55 @@
+/* Base Styles */
+.head-top {
+    background-color: #445d93;
+    font-size: 14px;
+    padding: 5px 0;
+}
+
+.head-top1 {
+    margin: 0 auto;
+    text-align: center;
+    color: white !important;
+    max-width: 1280px;
+}
+
+.navbar-nav {
+    justify-content: center;
+}
+
+.logo {
+    margin-left: 20px; 
+    width: 150px; 
+}
+
+.nav-link:hover {
+    background-color: #445d93;
+    color: white;
+}
+.marquee_tag{
+color:red;
+}
+
+
+
+@media (max-width: 768px) {
+    .logo {
+        margin: 0 ;
+        width: 160px; 
+    }
+
+}
+
+
+
+@media (max-width: 480px) {
+    .logo {
+        width: 250px; 
+    }
+
+}
+@media (max-width: 1024px){
+   
+}
+@media (max-width: 1440px){
+  
+}

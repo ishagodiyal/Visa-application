@@ -1,24 +1,51 @@
-import logo from './logo.svg';
-import './App.css';
+
+import React, {useEffect} from 'react';
+import NavBar from './components/NavBar';
+import Destination from './components/destination/Destination';
+import Akbar from './components/Akbar';
+import Slider from './components/Slider';
+import HappyCustomer from './components/HappyCustomer';
+
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Dubai from './components/destination/Dubai';
+import Singapore from './components/destination/Singapore';
+import Thailand from './components/destination/Thailand .js';
+import Malaysia from './components/destination/Malaysia';
+import Srilanka from './components/destination/Srilanka';
+
+
 
 function App() {
+   useEffect(()=>{
+    alert("welcome to go travelers . if you want any other type of information then please fill the form.");
+   },[1]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+    <Router>
+      <NavBar/>
+     
+      <Routes>
+        
+        <Route path="/" element={
+          <>
+              <Destination />
+            <Slider/>
+          <Akbar/>
+          <HappyCustomer/>
+          </>
+        } />
+        <Route path="/dubai" element={<Dubai />} />
+        <Route path="/turkey" element={<Malaysia />} />
+        <Route path="/singapore" element={<Singapore />} />
+        <Route path="/srilanka" element={<Srilanka />} />
+        <Route path="/thailand" element={<Thailand />} />
+       
+      </Routes>
+      </Router>
+     
+      
+      </>
   );
 }
 

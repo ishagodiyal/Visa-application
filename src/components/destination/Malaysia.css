@@ -1,0 +1,211 @@
+.turkey-tittle{
+   
+    color: black;
+ 
+    font-size: 50px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+}
+.Text1{
+    padding: 70px 140px;
+    background-color: rgb(84, 162, 198);
+}
+.visa-tag1{
+    display: flex;
+    align-items: center;
+    background-color: #784dda; /* Change to desired background color */
+    padding: 15px 20px;
+    border-radius: 4px;
+    position: relative;
+    font-size: 14px;
+    width:30%;
+    
+}
+.innerText{
+    color:white;
+    font-size: medium;
+}
+.visa-tag::after {
+    content: '';
+    position: absolute;
+    right: -20px;
+    top: 0;
+    height: 100%;
+    width: 20px;
+    background-color: #784dda; /* Match the background color */
+    clip-path: polygon(0 0, 100% 50%, 0 100%);
+  }
+  .icon {
+    background-color: #fdd835; /* Icon background color */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  .timing{
+    margin-top: 20px;
+    display: flex;
+    gap:100px;
+  }
+
+  .processing-time{
+    font-size: 17px;
+   
+    
+  }
+  .hours{
+    font-size: x-large;
+    margin-left: -10px;
+  }
+  .authorised{
+    background:linear-gradient(86deg, #C04848 0%, #5E0A7A 100%) ;
+    padding: 10px 40px;
+    border-radius: 50%;
+    width:45%;
+    color:white;
+  }
+  .dubai-img{
+  height: 40%;
+  width:40%;
+  margin-left: 53%;
+  margin-top: -30%;
+
+
+  }
+  .Types-of-visa1{
+    padding: 45px 140px;
+   
+  }
+  .visa_title{
+    font-size: x-large;
+    font-weight: 500;
+   
+  }
+ .Turkey_visa_card{
+  
+  flex-direction: row;
+  display: grid;
+ grid-template-columns:repeat(2,1fr);
+  border: none;
+  padding: 30px 0px;
+  gap:10px;
+  float: left;
+ }
+ .turkey_card{
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 440px;
+  height:250px;
+  text-decoration: none;
+  position: relative;
+  cursor: pointer;
+
+ 
+ }
+ .turkey_card h4{
+  width: 100%;
+    float: left;
+    background: #000;
+    color: #fff;
+    padding: 20px 13px;
+    font-size: 17px;
+    font-weight: 600;
+ 
+ }
+ .dubai_card_section{
+  display: flex;
+  gap: 34%;
+  padding: 10px 30px;
+  justify-items: center;
+ }
+ .dubai_card_section1{
+  text-align-last:left;
+  
+ }
+ .dubai_card_section2{
+  text-align-last:right;
+ }
+ .INR{
+  color: #445d93;
+  font-weight: 700;
+ }
+ .turkey_visa{
+  padding: 10px 140px;
+  margin-top:-7%;
+ }
+ .headoflist{
+    font-weight:500;
+    font-size: x-large;
+ 
+}
+.Dubai_visa li ul{
+  list-style:disc;
+}
+.required_document{
+  padding: 20px 140px;
+  background-color: #e8ebf2;
+  height: 600px;
+}
+.accordion{
+  margin-top: 2%;
+
+}
+.slider{
+  margin-top: 5%;
+}
+.form1{
+  width:20%;
+  border: none;
+  margin-left: 77%;
+  border: 2px solid ;
+  padding: 20px 20px;
+  background-color: #784dda;
+  margin-top: -3%;
+
+}
+.formButton{
+  width: 100px;
+  color: aqua;
+  background-color: black;
+  border-radius: 5px;
+}
+.formButton:hover{
+  color:white;
+  background-color: green;
+
+}
+.form-label{
+  margin-top: 5%;
+}
+.connect_head{
+  color: white;
+  font-size: x-large;
+  padding: 10px;
+  text-align: center;
+}
+.formButton_reset{
+  width: 100px;
+  color: aqua;
+  background-color: black;
+  border-radius: 5px;
+  
+}
+.formButton_reset:hover{
+  color:white;
+  background-color: red;
+  
+}
+.services h3{
+    font-weight:500;
+    font-size: x-large;
+    margin-top: 3%;
+}
+  
+  
+  
+  
