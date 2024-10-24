@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ishagodiyal/Visa-application.git/static/css/main.7acde1d7.css",
-    "main.js": "/ishagodiyal/Visa-application.git/static/js/main.4472fa21.js",
-    "static/js/453.3836cc77.chunk.js": "/ishagodiyal/Visa-application.git/static/js/453.3836cc77.chunk.js",
-    "static/media/srilanka.webp": "/ishagodiyal/Visa-application.git/static/media/srilanka.ae6ec649f02b7bb1c3e5.webp",
-    "static/media/3395706.jpg": "/ishagodiyal/Visa-application.git/static/media/3395706.000c002a975e0ecda2db.jpg",
-    "static/media/chinaimg.webp": "/ishagodiyal/Visa-application.git/static/media/chinaimg.1117940e8bc07e2e407d.webp",
-    "static/media/32545.jpg": "/ishagodiyal/Visa-application.git/static/media/32545.a84426f69c9be8664973.jpg",
-    "static/media/sawant.png": "/ishagodiyal/Visa-application.git/static/media/sawant.82b3ac713e8886cba8d2.png",
-    "static/media/mayur.jpg": "/ishagodiyal/Visa-application.git/static/media/mayur.801c27b776edcb9d5a8e.jpg",
-    "static/media/img1.jpg": "/ishagodiyal/Visa-application.git/static/media/img1.b1fb7413a51e9f0639b1.jpg",
-    "static/media/logohead.png": "/ishagodiyal/Visa-application.git/static/media/logohead.1ad3fa3ded82541e55c1.png",
-    "static/media/img5.jpg": "/ishagodiyal/Visa-application.git/static/media/img5.b75fa81a577e8b4429ce.jpg",
-    "static/media/ok-1976099_640.png": "/ishagodiyal/Visa-application.git/static/media/ok-1976099_640.c4c5c0bdcf0b5e9ec78c.png",
-    "static/media/img44.jpeg": "/ishagodiyal/Visa-application.git/static/media/img44.cb4a9c341af0a5d51000.jpeg",
-    "static/media/img3.avif": "/ishagodiyal/Visa-application.git/static/media/img3.58c1a2a262e6bba5119e.avif",
-    "static/media/Screenshot 2024-09-11 121947.png": "/ishagodiyal/Visa-application.git/static/media/Screenshot 2024-09-11 121947.4681180f9cfc0fcc53ba.png",
-    "index.html": "/ishagodiyal/Visa-application.git/index.html",
-    "main.7acde1d7.css.map": "/ishagodiyal/Visa-application.git/static/css/main.7acde1d7.css.map",
-    "main.4472fa21.js.map": "/ishagodiyal/Visa-application.git/static/js/main.4472fa21.js.map",
-    "453.3836cc77.chunk.js.map": "/ishagodiyal/Visa-application.git/static/js/453.3836cc77.chunk.js.map"
+    "main.css": "/Visa-application.git/static/css/main.7acde1d7.css",
+    "main.js": "/Visa-application.git/static/js/main.4b0bef00.js",
+    "static/js/453.3836cc77.chunk.js": "/Visa-application.git/static/js/453.3836cc77.chunk.js",
+    "static/media/srilanka.webp": "/Visa-application.git/static/media/srilanka.ae6ec649f02b7bb1c3e5.webp",
+    "static/media/3395706.jpg": "/Visa-application.git/static/media/3395706.000c002a975e0ecda2db.jpg",
+    "static/media/chinaimg.webp": "/Visa-application.git/static/media/chinaimg.1117940e8bc07e2e407d.webp",
+    "static/media/32545.jpg": "/Visa-application.git/static/media/32545.a84426f69c9be8664973.jpg",
+    "static/media/sawant.png": "/Visa-application.git/static/media/sawant.82b3ac713e8886cba8d2.png",
+    "static/media/mayur.jpg": "/Visa-application.git/static/media/mayur.801c27b776edcb9d5a8e.jpg",
+    "static/media/img1.jpg": "/Visa-application.git/static/media/img1.b1fb7413a51e9f0639b1.jpg",
+    "static/media/logohead.png": "/Visa-application.git/static/media/logohead.1ad3fa3ded82541e55c1.png",
+    "static/media/img5.jpg": "/Visa-application.git/static/media/img5.b75fa81a577e8b4429ce.jpg",
+    "static/media/ok-1976099_640.png": "/Visa-application.git/static/media/ok-1976099_640.c4c5c0bdcf0b5e9ec78c.png",
+    "static/media/img44.jpeg": "/Visa-application.git/static/media/img44.cb4a9c341af0a5d51000.jpeg",
+    "static/media/img3.avif": "/Visa-application.git/static/media/img3.58c1a2a262e6bba5119e.avif",
+    "static/media/Screenshot 2024-09-11 121947.png": "/Visa-application.git/static/media/Screenshot 2024-09-11 121947.4681180f9cfc0fcc53ba.png",
+    "index.html": "/Visa-application.git/index.html",
+    "main.7acde1d7.css.map": "/Visa-application.git/static/css/main.7acde1d7.css.map",
+    "main.4b0bef00.js.map": "/Visa-application.git/static/js/main.4b0bef00.js.map",
+    "453.3836cc77.chunk.js.map": "/Visa-application.git/static/js/453.3836cc77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acde1d7.css",
-    "static/js/main.4472fa21.js"
+    "static/js/main.4b0bef00.js"
   ]
 }
