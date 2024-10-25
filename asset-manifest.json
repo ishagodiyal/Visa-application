@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Visa-application/static/css/main.7acde1d7.css",
-    "main.js": "/Visa-application/static/js/main.2915bfa4.js",
+    "main.css": "/Visa-application/static/css/main.2af58635.css",
+    "main.js": "/Visa-application/static/js/main.c3803746.js",
     "static/js/453.3836cc77.chunk.js": "/Visa-application/static/js/453.3836cc77.chunk.js",
     "static/media/srilanka.webp": "/Visa-application/static/media/srilanka.ae6ec649f02b7bb1c3e5.webp",
     "static/media/3395706.jpg": "/Visa-application/static/media/3395706.000c002a975e0ecda2db.jpg",
@@ -17,12 +17,12 @@
     "static/media/img3.avif": "/Visa-application/static/media/img3.58c1a2a262e6bba5119e.avif",
     "static/media/Screenshot 2024-09-11 121947.png": "/Visa-application/static/media/Screenshot 2024-09-11 121947.4681180f9cfc0fcc53ba.png",
     "index.html": "/Visa-application/index.html",
-    "main.7acde1d7.css.map": "/Visa-application/static/css/main.7acde1d7.css.map",
-    "main.2915bfa4.js.map": "/Visa-application/static/js/main.2915bfa4.js.map",
+    "main.2af58635.css.map": "/Visa-application/static/css/main.2af58635.css.map",
+    "main.c3803746.js.map": "/Visa-application/static/js/main.c3803746.js.map",
     "453.3836cc77.chunk.js.map": "/Visa-application/static/js/453.3836cc77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acde1d7.css",
-    "static/js/main.2915bfa4.js"
+    "static/css/main.2af58635.css",
+    "static/js/main.c3803746.js"
   ]
 }
